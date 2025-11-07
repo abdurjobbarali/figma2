@@ -1,0 +1,25 @@
+/* All comman css start  */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: 0px;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{ 
+    list-style-type: none;
+   
+}
+.container{
+    width: 1210px;
+    padding: 0px;
+
+}
+/* Header part start  */
+.container ul, li, a{
+    display: flex;
+}
+/* Header part end  */
+/* All common css end  */
